@@ -1,0 +1,10 @@
+.job__circle {
+  width: 116px;
+  height: 116px;
+  background: #1EACC7;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 25px;
+}

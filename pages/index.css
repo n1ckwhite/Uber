@@ -17,3 +17,14 @@
 @import url(../blocks/request/__subtitle/request__subtitle.css);
 @import url(../blocks/request/__link/request__link.css);
 @import url(../blocks/btn/btn.css);
+@import url(../blocks/job/job.css);
+@import url(../blocks/caption/caption.css);
+@import url(../blocks/subtitle/subtitle.css);
+@import url(../blocks/job/__subtitle/job__subtitle.css);
+@import url(../blocks/job/__circle/job__circle.css);
+@import url(../blocks/job/__descr-text/job__descr-text.css);
+@import url(../blocks/job/__descr-title/job__descr-title.css);
+@import url(../blocks/job/__descr/job__descr.css);
+@import url(../blocks/job/__icon/job__icon.css);
+@import url(../blocks/job/__items/job__items.css);
+@import url(../blocks/job/__item/job__item.css);
