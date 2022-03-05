@@ -1,0 +1,17 @@
+.btn {
+  border: 0;
+  background: linear-gradient(0deg, #1EACC7 0%, #4CE2FF 100%);
+  box-shadow: inset 0px -3px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.21);
+  cursor: pointer;
+  transition: background .2s linear;
+}
+
+.btn:hover {
+  background: #4CE2FF;
+}

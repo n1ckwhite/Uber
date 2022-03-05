@@ -1,0 +1,16 @@
+.request__link {
+  display: block;
+  margin-top: 10px;
+  font-size: 22px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  transition: opacity .2s linear;
+}
+
+
+.request__link:hover {
+  opacity: .7;
+}

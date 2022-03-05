@@ -1,0 +1,8 @@
+.menu__links {
+  margin: 0 auto;
+  padding: 0 calc(50% - 590px);
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+

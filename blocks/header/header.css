@@ -1,0 +1,8 @@
+.header {
+  height: 853px;
+  padding: 0;
+  padding-top: 53px;
+  background-image: url(../../images/uber_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
