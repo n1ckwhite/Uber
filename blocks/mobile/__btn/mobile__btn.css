@@ -1,0 +1,44 @@
+.mobile__btn {
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  width: 29px;
+  height: 29px;
+  border-radius: 100%;
+  bottom: 34px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.mobile__btn:hover::before {
+  background: #FF5656;
+}
+
+.mobile__btn:hover::after {
+  background: #FF5656;
+}
+
+.mobile__btn::before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 14px;
+  height: 2px;
+  background: #1EACC7;
+  transition: background .2s linear;
+}
+
+.mobile__btn::after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 2px;
+  height: 14px;
+  background: #1EACC7;
+  transition: background .2s linear;
+}

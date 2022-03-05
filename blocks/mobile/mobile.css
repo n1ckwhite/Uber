@@ -1,0 +1,9 @@
+.mobile {
+  background-image: url(../../images/mobile_bg.jpg);
+  padding: 0;
+  padding-top: 48px;
+  padding-bottom: 80px;
+  margin: 0;
+  box-sizing: border-box;
+
+}

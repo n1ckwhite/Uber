@@ -1,0 +1,39 @@
+.mobile__item {
+  position: relative;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  padding-top: 83px;
+  width: 320px;
+  height: 280px;
+  background: url(../../../images/Карточка\ 1.jpg);
+  background-position: center;
+  background-size: contain;
+  margin-top: 20px;
+  transition: box-shadow .2s linear;
+}
+
+.mobile__item:hover {
+  box-shadow: 0 0 20px #070716;
+}
+
+.mobile__item:nth-of-type(2n) {
+  background-image: url(../../../images/Карточка\ 2.jpg);
+}
+
+.mobile__item:nth-of-type(3n) {
+  background-image: url(../../../images/Карточка\ 3.jpg);
+}
+
+.mobile__item:nth-of-type(4n) {
+  background-image: url(../../../images/Карточка\ 4.jpg);
+}
+
+.mobile__item:nth-of-type(5n) {
+  background-image: url(../../../images/Карточка\ 5.jpg);
+}
+
+.mobile__item:nth-of-type(6n) {
+  background-image: url(../../../images/Карточка\ 6.jpg);
+}
