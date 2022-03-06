@@ -1,0 +1,16 @@
+.footer__social-link {
+  width: 35px;
+  height: 35px;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  background: #070716;
+  margin-right: 6px;
+}
+
+.footer__social-link:last-child {
+  margin-right: 0;
+}

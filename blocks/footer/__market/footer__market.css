@@ -1,0 +1,10 @@
+.footer__market {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-right: 23px;
+  box-sizing: border-box;
+  min-width: 400px;
+
+}

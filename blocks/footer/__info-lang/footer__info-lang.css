@@ -1,0 +1,7 @@
+.footer__info-lang {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 15px;
+}

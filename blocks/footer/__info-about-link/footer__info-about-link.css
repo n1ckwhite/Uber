@@ -1,0 +1,13 @@
+.footer__info-about-link {
+  font-weight: 300;
+  font-size: 11px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #999999;
+  margin-right: 23px;
+}
+
+
+.footer__info-about-link:last-child {
+  margin-right: 0;
+}

@@ -1,0 +1,8 @@
+.footer {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  padding-top: 15px;
+  padding-bottom: 40px;
+  min-height: 145px;
+}

@@ -1,0 +1,12 @@
+.footer__info-navigation-link {
+  font-weight: 300;
+  font-size: 15px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #070716;
+  margin-right: 45px;
+}
+
+.footer__info-navigation-link:last-child {
+  margin-right: 0;
+}
