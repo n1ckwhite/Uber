@@ -57,3 +57,7 @@
 @import url(../blocks/require/__subtitle/require__subtitle.css);
 @import url(../blocks/require/__item/_color/require__item_color-red.css);
 @import url(../blocks/require/__list-header/_color/require__list-header_color-red.css);
+@import url(../blocks/cities/cities.css);
+@import url(../blocks/cities/__descr/citites__descr.css);
+@import url(../blocks/cities/__link/cities__link.css);
+@import url(../blocks/cities/__subtitle/citites__subtitle.css);

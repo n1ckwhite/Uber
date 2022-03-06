@@ -1,0 +1,18 @@
+.cities__link {
+  display: block;
+  position: absolute;
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #1FBAD6;
+  text-decoration: none;
+  bottom: 21px;
+  left: 50%;
+  transform: translate(-50%);
+  transition: opacity .2s linear;
+}
+
+.cities__link:hover {
+  opacity: .7;
+}

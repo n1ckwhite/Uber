@@ -1,0 +1,11 @@
+.cities {
+  margin: 0;
+  box-sizing: border-box;
+  padding-top: 48px;
+  background: #080810;
+  background-image: url(../../images/world_bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 720px;
+  position: relative;
+}
