@@ -1,9 +1,7 @@
 .capabilities__img {
   display: block;
   line-height: 0;
-  position: absolute;
   margin: 0 auto;
-  top: 234px;
-  left: 50%;
-  transform: translateX(-50%);
+  position: relative;
+  top: 54px;
 }

@@ -1,0 +1,6 @@
+.require {
+  box-sizing: border-box;
+  padding: 0 calc(50% - 590px);
+  padding-top: 66px;
+  padding-bottom: 87px;
+}

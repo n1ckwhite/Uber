@@ -1,0 +1,8 @@
+.require__item_color-red {
+  position: relative;
+}
+
+.require__item_color-red::before {
+  background-image: url(../../../../images/red_checkbox.svg);
+
+}

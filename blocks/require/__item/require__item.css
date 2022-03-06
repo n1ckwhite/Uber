@@ -1,0 +1,20 @@
+.require__item {
+  margin-top: 5px;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 24px;
+  color: #222222;
+  position: relative;
+}
+
+.require__item::before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  background-image: url(../../../images/blue_checkbox.svg);
+  top: 15px;
+  left: -32px;
+  transform: translateY(-50%);
+}
