@@ -5,9 +5,13 @@
   text-decoration: none;
   color: #999999;
   margin-right: 23px;
+  transition: opacity .2s linear;
 }
-
 
 .footer__info-about-link:last-child {
   margin-right: 0;
+}
+
+.footer__info-about-link:hover {
+  opacity: .7;
 }

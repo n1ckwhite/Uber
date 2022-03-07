@@ -4,4 +4,9 @@
   text-transform: uppercase;
   text-decoration: none;
   color: #1FBAD6;
+  transition: opacity .2s linear;
+}
+
+.footer__info-lang-link:hover {
+  opacity: .7;
 }

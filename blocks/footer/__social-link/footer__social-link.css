@@ -9,8 +9,14 @@
   border-radius: 100%;
   background: #070716;
   margin-right: 6px;
+  transition: background .2s linear;
 }
 
 .footer__social-link:last-child {
   margin-right: 0;
+}
+
+
+.footer__social-link:hover {
+  background: #1FBAD6;
 }

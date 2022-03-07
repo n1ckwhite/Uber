@@ -5,8 +5,13 @@
   text-decoration: none;
   color: #070716;
   margin-right: 45px;
+  transition: opacity .2s linear;
 }
 
 .footer__info-navigation-link:last-child {
   margin-right: 0;
+}
+
+.footer__info-navigation-link:hover {
+  opacity: .7;
 }
