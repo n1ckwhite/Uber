@@ -1,6 +1,6 @@
 .request {
   box-sizing: border-box;
-  height: 87px;
+  min-height: 87px;
   background: rgba(0, 0, 0, .6);
   padding: 0 calc(50% - 590px);
   padding-top: 22px;

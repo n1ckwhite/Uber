@@ -1,10 +1,9 @@
 .caption {
   max-width: 113px;
-  height: 27px;
+  min-height: 27px;
   margin: 0 auto;
   background: #000000;
   font-size: 11px;
-  line-height: 1;
   text-transform: uppercase;
   color: #FFFFFF;
   display: flex;

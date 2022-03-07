@@ -1,12 +1,11 @@
 .mobile__item {
   position: relative;
   box-sizing: border-box;
-  padding: 0;
   margin: 0;
   list-style-type: none;
   padding-top: 83px;
   width: 320px;
-  height: 280px;
+  min-height: 280px;
   background: url(../../../images/Карточка\ 1.jpg);
   background-position: center;
   background-size: contain;
